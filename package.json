@@ -1,0 +1,22 @@
+{
+  "name": "visa-cybersource-app",
+  "version": "1.0.0",
+  "description": "VISA checkout with cyberspace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorkarangwa4/VISA-Cybersource-app.git"
+  },
+  "author": "Victor Karangwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorkarangwa4/VISA-Cybersource-app/issues"
+  },
+  "homepage": "https://github.com/victorkarangwa4/VISA-Cybersource-app#readme",
+  "dependencies": {
+    "cybersource-rest-client": "^0.0.20"
+  }
+}
